@@ -4,8 +4,6 @@
 
 ## 문학
 
----
-
 찬기파랑가: https://webdt.edunet.net/url/s4un4k4kw1mc
 
 구지가, 여수장우중문시: https://webdt.edunet.net/url/1jeaftmbv8gfr
@@ -24,8 +22,6 @@
 
 ## 영어
 
----
-
 Shadow Day: https://webdt.edunet.net/url/to4ix01apb1s
 
 Healthy Eating, Healthy Living: https://webdt.edunet.net/url/vbq8ox9vp46a
@@ -33,8 +29,6 @@ Healthy Eating, Healthy Living: https://webdt.edunet.net/url/vbq8ox9vp46a
 Scripts: https://webdt.edunet.net/url/sof32zqegy0m
 
 ## 수학
-
----
 
 지수: https://webdt.edunet.net/url/s1dxnrfrcvu9
 
@@ -68,8 +62,6 @@ Scripts: https://webdt.edunet.net/url/sof32zqegy0m
 
 ## 한국사
 
----
-
 삼국 통치 체제: https://webdt.edunet.net/url/1if0jljwvz1v8
 
 가야: https://webdt.edunet.net/url/1jyouwn49u8u1
@@ -99,8 +91,6 @@ Scripts: https://webdt.edunet.net/url/sof32zqegy0m
 조선: https://webdt.edunet.net/url/1jyiv0133k4z4
 
 ## 물리
-
----
 
 힘과 운동: https://webdt.edunet.net/url/skv3ulbgfubd
 
