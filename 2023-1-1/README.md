@@ -18,7 +18,7 @@
 
 난장이가 쏘아 올린 작은 공: https://webdt.edunet.net/url/1jidbh9p1c9wz
 
-모고 지문: (지문 보기)[./img/2023년 고2 3월 모의고사 국어 문제-16.jpg]
+모고 지문: https://user-images.githubusercontent.com/44526964/234630721-e923df05-ae1f-4591-8255-c0d19e6fdc7c.jpg
 
 ## 영어
 
